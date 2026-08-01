@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+  <meta charset="utf-8" />
+  <meta name="ProgId" content="Excel.Sheet" />
+  <meta name="Generator" content="Private Airline Technical Log" />
+  <title>Technical Log Report</title>
+</head>
+<body>
+  <table border="1" cellspacing="0" cellpadding="2">
+    <tr><td>ID</td><td>Aircraft</td><td>Flight Number</td><td>Issue Title</td><td>Component</td><td>Severity</td><td>Status</td><td>Technician</td><td>Date</td><td>Time</td><td>Block Time</td><td>Flight Time</td><td>Block On</td><td>Block Off</td><td>Takeoff</td><td>Landing</td><td>Total</td><td>Fuel IBA</td><td>Fuel ITRS</td><td>Fuel Gallons</td><td>Oil QTS</td><td>Oil ITS</td><td>Pilot</td><td>Copilot</td><td>From</td><td>To</td><td>Engine Trend</td><td>Notes</td></tr><tr><td>1785362078753</td><td>5Y-ABC</td><td>Osa</td><td>window</td><td>pressurizaton</td><td>Medium</td><td>Open</td><td>okafor</td><td>2026-07-29</td><td>14:52</td><td>04:55</td><td>03:56</td><td>14:58</td><td>19:53</td><td>14:57</td><td>18:53</td><td>03:56</td><td>12.9</td><td>7.1</td><td>10.4</td><td>5.8</td><td>5.6</td><td>john</td><td>jane</td><td>DNNA</td><td>DNNN</td><td>N19 FLOWS NORMAL</td><td>good</td></tr><tr><td>1785361608283</td><td>5Y-ABC</td><td>Osa</td><td>cabin pressure</td><td>pressurizaton</td><td>Medium</td><td>In Progress</td><td>okafor</td><td>2026-07-29</td><td>14:41</td><td>00:59</td><td></td><td>14:44</td><td>15:43</td><td>16:43</td><td>14:45</td><td></td><td>2000</td><td>2000</td><td>3000</td><td>4000</td><td>3500</td><td>john</td><td>jane</td><td>DNNA</td><td>DNNN</td><td>N19 FLOWS NORMAL</td><td>GOOD</td></tr>
+  </table>
+</body>
+</html>

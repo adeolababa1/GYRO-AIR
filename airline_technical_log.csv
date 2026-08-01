@@ -1,0 +1,2 @@
+"ID","Aircraft","Flight Number","Issue Title","Component","Severity","Status","Technician","Date","Time","Block Time","Flight Time","Block On","Block Off","Takeoff","Landing","Total","Fuel IBA","Fuel ITRS","Fuel Gallons","Oil QTS","Oil ITS","Pilot","Copilot","From","To","Engine Trend","Notes"
+"1785361608283","5Y-ABC","Osa","cabin pressure","pressurizaton","Medium","In Progress","okafor","2026-07-29","14:41","00:59","","14:44","15:43","16:43","14:45","","2000","2000","3000","4000","3500","john","jane","DNNA","DNNN","N19 FLOWS NORMAL","GOOD"
